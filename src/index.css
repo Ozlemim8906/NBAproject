@@ -24,7 +24,7 @@ body {
 }
 
 .player-logo {
-  transition: transform;
+  transition: transform 0.2s;
   height: 350px;
 }
 .player-card:hover .player-logo {
